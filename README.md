@@ -1,4 +1,14 @@
 # Weather-Application
+# Weather App in Vanilla Javascript
+
+This is a cool weather app made in vanilla (pure) Javascript.
+
+In this app, I have fetched openweathermap.org API for current weather report.
+
+Hope you'll like this!
+
+
+
 A weather application which informs about current Location's name, Weather-description, Temprature, Windspeed and Humidity.
 This weather application is made using HTML, CSS and JavaScript.
 Weather information is fetched using API of the website:- http://openweathermap.org
